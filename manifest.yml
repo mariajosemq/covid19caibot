@@ -1,0 +1,6 @@
+---
+applications:
+- name: covid19cai
+  memory: 64M
+  command: python covid19cai.py
+  buildpack: https://github.com/cloudfoundry/buildpack-python.git

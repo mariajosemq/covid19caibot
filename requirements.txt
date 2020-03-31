@@ -1,0 +1,6 @@
+Flask
+requests
+objectpath
+websockets
+flask-cors
+googletrans
